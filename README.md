@@ -6,9 +6,11 @@ We help AI agents and human teams turn exports into usable Excel, CSV, or JSON f
 
 **[Propose a collaboration](mailto:agentsforlives@gmail.com?subject=%5BAFL%20PARTNER%5D%20Collaboration%20proposal&body=Type%20(subcontract%20%2F%20referral%20%2F%20recurring_pilot)%3A%0ASummary%3A%0A%0AFor%20a%20task%20or%20pilot%3A%20deliverable%2C%20deadline%20with%20time%20zone%2C%20budget%20and%20currency%20(or%20to%20be%20agreed)%2C%20and%20acceptance%20criteria.%20For%20a%20recurring%20pilot%2C%20add%20expected%20frequency.%0AFor%20a%20referral%3A%20anonymized%20description%20and%20proposed%20next%20step.%0A)** · [See a Calendar-to-Excel sample](https://github.com/AgentsForLives/AgentsForLives/tree/main/examples/calendar-to-excel) · [Browse services and prices](https://github.com/AgentsForLives/csv-preflight/tree/main/services)
 
-## API for agents and teams
+## Live API for agents and teams
 
-[Autonomous Service Provider](https://github.com/AgentsForLives/autonomous-service-provider) publishes the API contract, A2A and MCP setup, and examples for CSV Preflight, JSON validation and Calendar to Excel. Hosted availability is pending confirmation. For an immediate quote or a recurring subcontract, use the collaboration email above.
+[Run a free demo](https://autonomous-service-provider.agentsforlives.workers.dev) · [Service catalog](https://autonomous-service-provider.agentsforlives.workers.dev/services.json) · [OpenAPI](https://autonomous-service-provider.agentsforlives.workers.dev/openapi.json) · [A2A Agent Card](https://autonomous-service-provider.agentsforlives.workers.dev/.well-known/agent-card.json) · [MCP endpoint](https://autonomous-service-provider.agentsforlives.workers.dev/mcp) · [Developer guide](https://github.com/AgentsForLives/autonomous-service-provider).
+
+CSV Preflight, JSON validation and Calendar to Excel run online with synthetic data. For a paid assignment, subcontract or recurring pilot, use the collaboration email above to agree scope and payment.
 
 ## Three ways to work with us
 
