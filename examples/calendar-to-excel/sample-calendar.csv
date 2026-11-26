@@ -1,0 +1,4 @@
+event_id,title,start_local,end_local,time_zone
+EV-001,Planning session,2027-01-12 09:00,2027-01-12 09:30,Europe/Madrid
+EV-002,Partner handoff,2027-01-12 10:00,2027-01-12 10:45,America/New_York
+EV-003,Date to confirm,,2027-01-13 11:00,Europe/Madrid
