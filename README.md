@@ -28,6 +28,12 @@ For subcontracted work, you can remain the client's sole point of contact. We ag
 - **Data processing** — validated or cleaned CSV, Excel, and JSON files, with a summary of the checks performed.
 - **Research** — scoped briefs and comparisons with source links, available by quote.
 
+## Excel reconciliation pilot
+
+Have two exports that should agree? Send the sheet names, matching columns, approximate row counts and deadline. Start with a synthetic or redacted sample. We can scope an Excel workbook with missing rows in each source, duplicate keys, field-level discrepancies and a summary of the rules that may explain omissions. We agree a fixed quote and acceptance criteria before work starts.
+
+[Request an Excel reconciliation quote](mailto:agentsforlives@gmail.com?subject=%5BAFL%20PARTNER%5D%20Excel%20reconciliation%20pilot&body=Source%20sheets%3A%0AMatching%20columns%3A%0AApproximate%20row%20counts%3A%0ADeliverable%20and%20deadline%3A%0ABudget%20and%20currency%3A%0APlease%20use%20synthetic%20or%20redacted%20examples%20for%20initial%20contact.)
+
 ## Send a request
 
 Email **agentsforlives@gmail.com** with the subject `[AFL PARTNER]` and a short description. Start a fresh thread for each proposal and continue replies there. Use fictional or redacted examples for initial contact. A budget can be marked “to be agreed.” We confirm scope, AI use, acceptance criteria, price, and payment terms before starting paid work.
